@@ -1,0 +1,3 @@
+welcome to test4.txt
+This is my first Git modification.
+Learning Git push and commit.
